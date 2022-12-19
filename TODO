@@ -1,0 +1,30 @@
+
+
+TODO:
+    Error system:
+        - varlen errors
+        - some system for catching errors
+        - somehow handle that ERCONNECT error
+
+    General:
+        - think of something about saving player data
+        - NBT translator(?) !!!
+        - chunk system
+        - chunk saving
+        - spawning of player
+        - player movement
+
+    Networking:
+        - legacy server ping resonse
+        - add rest of packets to packet lists
+        - data types
+            - some system for arrays
+            - make int handle negative numbers
+            - more complicated type
+            - add rest of them
+            - FLOATS
+
+
+    optimizations:
+        - data types
+        - check if _int_d can be implemented in other parts of the code (reverse() function)
